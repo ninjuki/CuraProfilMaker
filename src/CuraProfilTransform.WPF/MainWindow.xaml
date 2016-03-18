@@ -1,0 +1,22 @@
+﻿<Controls:MetroWindow x:Class="CuraProfilTransform.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Controls="http://metro.mahapps.com/winfx/xaml/controls"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CuraProfilTransform"
+        mc:Ignorable="d"
+        xmlns:Views="clr-namespace:CuraProfilTransform.Views"
+        Title="Cura Profil Transform" Height="300" Width="670"
+        BorderBrush="{DynamicResource AccentColorBrush}"
+        WindowStartupLocation="CenterScreen">
+    <Controls:MetroWindow.Resources>
+    </Controls:MetroWindow.Resources>
+    <Grid>
+        <Controls:MetroAnimatedSingleRowTabControl Grid.Row="1">
+            <TabItem Header="TRANSFORM">
+                <Views:TransformView />
+            </TabItem>
+        </Controls:MetroAnimatedSingleRowTabControl>
+    </Grid>
+</Controls:MetroWindow>
