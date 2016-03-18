@@ -6,9 +6,7 @@
 
 ## Téléchargement ##
 
-[CuraProfilTransform-1.0.2.0.zip](dist/CuraProfilTransform-1.0.2.0.zip)
 [CuraProfilTransform-1.0.2.0.zip](../../raw/master/dist/CuraProfilTransform-1.0.2.0.zip)
-[CuraProfilTransform-1.0.2.0.zip](https://github.com/ninjuki/CuraProfilMaker/raw/master/dist/CuraProfilTransform-1.0.2.0.zip)
 
 ## Utilisation ##
 
