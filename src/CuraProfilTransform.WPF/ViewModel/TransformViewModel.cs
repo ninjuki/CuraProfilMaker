@@ -115,7 +115,7 @@ namespace CuraProfilTransform.ViewModel
 
         private bool CanTransformCommand()
         {
-            return InputProfil != null && OutputProfil != null && File.Exists(InputProfil) && File.Exists(OutputProfil);
+            return InputProfil != null && OutputProfil != null && File.Exists(InputProfil);
         }
 
         private async void ExecTransformCommand()
