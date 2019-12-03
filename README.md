@@ -10,16 +10,16 @@
 
 ## Utilisation ##
 
-**Dagoma Profil** : Chemin vers le profil courant de `Cura-By-Dagoma`.
+**Dagoma profil** : Chemin vers le profil courant de `Cura-By-Dagoma`.
 
 le fichier profil de `Cura-By-Dagoma` est mis à jours à chaque changement d'une option de l'interface.
 `CuraProfilMaker` observe les changement lorsqu'il est lancé.
 
-**Dagoma Profil** : Chemin vers le profil de `Cura`.
+**Cura profil** : Chemin vers le profil de `Cura`.
 
 Il constitue la base du fichier profil, seul les propriétés du fichier profil de cura serront importés dans le nouveau fichier profil.
 
-**Dagoma Profil** : Chemin vers le fichier profil enregistré.
+**Output profil** : Chemin vers le fichier profil enregistré.
 
 **TRANSFORM** : Génère le fichier profil. 
 
